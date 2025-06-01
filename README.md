@@ -46,7 +46,7 @@ This project aims to analyze customer segmentation for McDonald's using data-dri
 
 ## 📈 Expected Outcomes  
 ✔️ Well-defined customer segments  
-✔️ Improved marketing campaign effectiveness  
+✔️ Improved marketing campaign effectiveness    
 ✔️ Personalized promotions for higher sales  
 ✔️ Actionable insights for business growth  
 
